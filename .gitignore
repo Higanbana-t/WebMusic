@@ -1,0 +1,4 @@
+# Ignore .env files (contains sensitive information)
+.env
+*.key
+*.pem
